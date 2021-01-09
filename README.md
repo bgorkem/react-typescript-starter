@@ -1,6 +1,6 @@
 # How to create a React Typescript SPA
 
-Minimum setup, steps required to build React Typescript Single Page app with webpack
+Minimum setup steps required to build React Typescript Single Page app with webpack
 
 Completed setup is at **final** branch
 
