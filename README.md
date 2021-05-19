@@ -210,6 +210,11 @@ const App = () => {
 ReactDOM.render(<App/>, document.querySelector('#root'));
 ```
 
+### Test Setup
+Using testing-library/react instead of enzyme.
+In babelrc config, in test env, we use node as the target platform
+This allows latest regenerator runtime to work ok with jest asnyc tests.
+
 
 ### Running
 
